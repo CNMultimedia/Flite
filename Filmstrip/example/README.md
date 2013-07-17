@@ -10,8 +10,6 @@ Note: You should always import the linked Movieclips in the MC Sprite.
 
 ## Extra parameters
 
-### Filmstrip
-
 	o.rtmps = []
 
 Array of video path. This is used in the video gallery.
