@@ -26,9 +26,10 @@ We lay out all the parts of the gallery, then setup all the slides and the navig
 
 Same thing as the image gallery, except in this function we also setup the 'vp' component.
 
-### 'addNav()'
+### `addNav()`
 
 Both image gallery and video gallery are using the same type of navigation hence the use of 'addNav()'.
 
 This function initializes all the elements of the navigation: the arrows and the dots.  
+
 
