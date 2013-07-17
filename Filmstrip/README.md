@@ -32,4 +32,10 @@ Both image gallery and video gallery are using the same type of navigation hence
 
 This function initializes all the elements of the navigation: the arrows and the dots.  
 
+## `init_content()`
 
+We setup all the custom scrollbar and the content panel.
+
+## `init_footer()`
+
+In this function we lay out the custom CTA and LOGO.
