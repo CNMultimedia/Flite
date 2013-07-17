@@ -1,4 +1,4 @@
-# Filmstrip
+# Image Gallery
 
 The Filmstrip unit template offers 3 kinds of experience in one ad: Image Gallery, Video Gallery, Content Panel.
 
