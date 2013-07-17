@@ -34,7 +34,7 @@ This function initializes all the elements of the navigation: the arrows and the
 
 ## `init_content()`
 
-We setup all the custom scrollbar and the content panel.
+We setup the custom scrollbar and the content panel.
 
 ## `init_footer()`
 
