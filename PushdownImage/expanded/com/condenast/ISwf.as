@@ -1,0 +1,1 @@
+﻿package com.condenast{	public interface ISwf{		function _init(f:Function):void;	}}
