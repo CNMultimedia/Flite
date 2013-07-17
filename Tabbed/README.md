@@ -14,7 +14,7 @@ First, in the Tabbed unit the structure is simply `content` and `left`.
 
 This initializes the navigation tabs and the ctas.
 
-* `init_content`
+* `init_content()`
 
 Same as Filmstrip.
 
